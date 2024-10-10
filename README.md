@@ -23,3 +23,6 @@ To add a meal, enter the meal name, set its price, and select the meal type, the
 You can remove any meal from the list by pressing the "Remove" button.
 Press the "Next Page" button to navigate to the Second Page where you can select meals and see their total cost.
 The total cost will update automatically based on your meal selection.
+
+YOUTUBE VIDEO
+Here is a break down of the app: https://youtu.be/OnClhXr5748
